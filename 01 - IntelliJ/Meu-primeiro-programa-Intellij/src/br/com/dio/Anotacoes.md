@@ -1,6 +1,6 @@
 # Atalhos Intellij :keyboard:
 
-- **SHIFT + F6 **
+- **SHIFT + F6**
 
   Refatorar o nome de uma classe
 
